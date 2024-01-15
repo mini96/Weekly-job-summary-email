@@ -3,6 +3,9 @@
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
 Find the project requirements here: [Weekly newsletter summary email](https://www.codementor.io/projects/web/weekly-newsletter-summary-email-atx32ild7k)
 
+-- Version 1 
+This version will only find Linkedin job alert emails summarised
+
 ## Tech/framework used
 Built with python
 
